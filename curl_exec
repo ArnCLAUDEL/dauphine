@@ -1,0 +1,1 @@
+curl 'https://en.wikipedia.org/w/api.php?action=query&format=json&prop=revisions&titles=Bertrand_Russell&rvprop=ids%7Cuser%7Ctimestamp&rvslots=*&rvlimit=100&rvstart=2017-07-29T21%3A20%3A40.000Z&rvend=2017-08-01T21%3A20%3A40.000Z&rvdir=newer'
